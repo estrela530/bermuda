@@ -5,6 +5,7 @@
   <Config />
   <SourceFiles>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/backColor.png</File>
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/Ending.png</File>
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/Title.png</File>
@@ -12,6 +13,15 @@
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/green.png</File>
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/orage.png</File>
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/red.png</File>
+=======
+    <File>C:/Users/K018A1697/Desktop/gamejam12/hune/shishiship/ShipGame/Content/Texture/backColor.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/hune/shishiship/ShipGame/Content/Texture/Ending.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/hune/shishiship/ShipGame/Content/Texture/Title.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/hune/shishiship/ShipGame/Content/Texture/blue.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/hune/shishiship/ShipGame/Content/Texture/green.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/hune/shishiship/ShipGame/Content/Texture/orage.png</File>
+    <File>C:/Users/K018A1697/Desktop/gamejam12/hune/shishiship/ShipGame/Content/Texture/red.png</File>
+>>>>>>> 5ad42f2a9c2904882f4fdddd0edbd311946c71b8
 =======
     <File>C:/Bermuda/ShipGame/Content/Texture/backColor.png</File>
     <File>C:/Bermuda/ShipGame/Content/Texture/Ending.png</File>
