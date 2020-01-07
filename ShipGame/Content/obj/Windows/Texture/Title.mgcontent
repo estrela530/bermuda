@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <SourceFile>C:/TeamHune/ShipGame/Content/Texture/Title.png</SourceFile>
+  <SourceTime>2020-01-07T00:11:48+09:00</SourceTime>
+  <DestFile>C:/TeamHune/ShipGame/Content/bin/Windows/Texture/Title.xnb</DestFile>
+  <DestTime>2020-01-07T02:24:39.5706331+09:00</DestTime>
+=======
+  <SourceFile>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/Title.png</SourceFile>
+  <SourceTime>2020-01-07T00:11:47.8789464+09:00</SourceTime>
+  <DestFile>C:/Users/K018A1697/Desktop/ShipGame/Content/bin/Windows/Texture/Title.xnb</DestFile>
+  <DestTime>2020-01-07T01:59:00.5217401+09:00</DestTime>
+>>>>>>> parent of b5f066b... バミューダできた
+=======
+  <SourceFile>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/Title.png</SourceFile>
+  <SourceTime>2020-01-07T02:23:22.7705517+09:00</SourceTime>
+  <DestFile>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/bin/Windows/Texture/Title.xnb</DestFile>
+  <DestTime>2020-01-07T02:25:40.6512288+09:00</DestTime>
+>>>>>>> b5f066bcae96b39cdfa1d70856da08718dce2a9d
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2017-03-02T00:05:36+09:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2017-03-02T00:05:36+09:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
