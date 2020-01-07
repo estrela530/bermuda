@@ -123,7 +123,6 @@ C:\Users\K018A1697\Desktop\ShipGame\obj\x86\Debug\ShipGame.csproj.CopyComplete
 C:\Users\K018A1697\Desktop\ShipGame\obj\x86\Debug\ShipGame.exe
 C:\Users\K018A1697\Desktop\ShipGame\obj\x86\Debug\ShipGame.pdb
 <<<<<<< HEAD
-<<<<<<< HEAD
 C:\TeamHune\ShipGame\bin\Windows\x86\Debug\Content\Texture\backColor.xnb
 C:\TeamHune\ShipGame\bin\Windows\x86\Debug\Content\Texture\blue.xnb
 C:\TeamHune\ShipGame\bin\Windows\x86\Debug\Content\Texture\Ending.xnb
@@ -158,7 +157,6 @@ C:\TeamHune\ShipGame\obj\x86\Debug\ShipGame.exe
 C:\TeamHune\ShipGame\obj\x86\Debug\ShipGame.pdb
 =======
 >>>>>>> parent of b5f066b... バミューダできた
-=======
 C:\Users\K018A1815\Desktop\ナナシ\ShipGame\bin\Windows\x86\Debug\Content\Texture\backColor.xnb
 C:\Users\K018A1815\Desktop\ナナシ\ShipGame\bin\Windows\x86\Debug\Content\Texture\blue.xnb
 C:\Users\K018A1815\Desktop\ナナシ\ShipGame\bin\Windows\x86\Debug\Content\Texture\Ending.xnb

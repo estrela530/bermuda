@@ -4,25 +4,6 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <File>C:/TeamHune/ShipGame/Content/Texture/backColor.png</File>
-    <File>C:/TeamHune/ShipGame/Content/Texture/Ending.png</File>
-    <File>C:/TeamHune/ShipGame/Content/Texture/Title.png</File>
-    <File>C:/TeamHune/ShipGame/Content/Texture/blue.png</File>
-    <File>C:/TeamHune/ShipGame/Content/Texture/green.png</File>
-    <File>C:/TeamHune/ShipGame/Content/Texture/orage.png</File>
-    <File>C:/TeamHune/ShipGame/Content/Texture/red.png</File>
-=======
-    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/backColor.png</File>
-    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/Ending.png</File>
-    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/Title.png</File>
-    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/blue.png</File>
-    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/green.png</File>
-    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/orage.png</File>
-    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/red.png</File>
->>>>>>> parent of b5f066b... バミューダできた
-=======
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/backColor.png</File>
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/Ending.png</File>
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/Title.png</File>
@@ -30,6 +11,5 @@
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/green.png</File>
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/orage.png</File>
     <File>C:/Users/K018A1815/Desktop/ナナシ/ShipGame/Content/Texture/red.png</File>
->>>>>>> b5f066bcae96b39cdfa1d70856da08718dce2a9d
   </SourceFiles>
 </SourceFileCollection>
