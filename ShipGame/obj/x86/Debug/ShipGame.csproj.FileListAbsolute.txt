@@ -190,6 +190,7 @@ C:\Users\K018A1815\Desktop\ナナシ\ShipGame\obj\x86\Debug\ShipGame.csproj.Copy
 C:\Users\K018A1815\Desktop\ナナシ\ShipGame\obj\x86\Debug\ShipGame.exe
 C:\Users\K018A1815\Desktop\ナナシ\ShipGame\obj\x86\Debug\ShipGame.pdb
 >>>>>>> b5f066bcae96b39cdfa1d70856da08718dce2a9d
+<<<<<<< HEAD
 C:\Users\K018A1697\Desktop\gamejam12\hune\shishiship\ShipGame\bin\Windows\x86\Debug\Content\Texture\backColor.xnb
 C:\Users\K018A1697\Desktop\gamejam12\hune\shishiship\ShipGame\bin\Windows\x86\Debug\Content\Texture\blue.xnb
 C:\Users\K018A1697\Desktop\gamejam12\hune\shishiship\ShipGame\bin\Windows\x86\Debug\Content\Texture\Ending.xnb
@@ -222,3 +223,37 @@ C:\Users\K018A1697\Desktop\gamejam12\hune\shishiship\ShipGame\obj\x86\Debug\Ship
 C:\Users\K018A1697\Desktop\gamejam12\hune\shishiship\ShipGame\obj\x86\Debug\ShipGame.csproj.CopyComplete
 C:\Users\K018A1697\Desktop\gamejam12\hune\shishiship\ShipGame\obj\x86\Debug\ShipGame.exe
 C:\Users\K018A1697\Desktop\gamejam12\hune\shishiship\ShipGame\obj\x86\Debug\ShipGame.pdb
+=======
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\Content\Texture\backColor.xnb
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\Content\Texture\blue.xnb
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\Content\Texture\Ending.xnb
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\Content\Texture\green.xnb
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\Content\Texture\orage.xnb
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\Content\Texture\red.xnb
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\Content\Texture\Title.xnb
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\ShipGame.exe
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\ShipGame.pdb
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Bermuda\ShipGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Bermuda\ShipGame\obj\x86\Debug\ShipGame.csprojAssemblyReference.cache
+C:\Bermuda\ShipGame\obj\x86\Debug\ShipGame.csproj.CoreCompileInputs.cache
+C:\Bermuda\ShipGame\obj\x86\Debug\ShipGame.csproj.CopyComplete
+C:\Bermuda\ShipGame\obj\x86\Debug\ShipGame.exe
+C:\Bermuda\ShipGame\obj\x86\Debug\ShipGame.pdb
+>>>>>>> 6e6da044b8037e26e95dcac3adef59caf43be548
